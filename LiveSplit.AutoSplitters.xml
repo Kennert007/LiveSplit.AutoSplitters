@@ -1520,9 +1520,9 @@
             <Game>Team Sonic Racing</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/Jujstme/Autosplitters/master/Team%20Sonic%20Racing/Team%20Sonic%20Racing.asl</URL>
+            <URL>https://raw.githubusercontent.com/SonicSpeedrunning/LiveSplit.TeamSonicRacing/master/Components/LiveSplit.TeamSonicRacing.dll</URL>
         </URLs>
-        <Type>Script</Type>
+        <Type>Component</Type>
         <Description>Autosplitting and In-Game Timer are available. Supports all speedrun.com categories (by Jujstme)</Description>
         <Website>https://discord.gg/XRsRwRU</Website>
     </AutoSplitter>
@@ -5411,10 +5411,10 @@
             <Game>TrackMania Turbo</Game>
         </Games>
         <URLs>
-            <URL>https://raw.githubusercontent.com/NeKzor/ASL-Scripts/master/TrackmaniaTurbo.asl</URL>
+            <URL>https://raw.githubusercontent.com/Voyager006/Autosplitters/master/TrackmaniaTurbo/TrackmaniaTurbo.asl</URL>
         </URLs>
         <Type>Script</Type>
-        <Description>Load remover and auto splitting options are available. (By NeKz)</Description>
+        <Description>In-game time + auto start/reset/split options are available. (By Voyager006 and donadigo)</Description>
     </AutoSplitter>
     <AutoSplitter>
         <Games>
@@ -13403,5 +13403,15 @@
         </URLs>
         <Type>Script</Type>
         <Description>Load Remover / Auto Splitter available (By SunglassesEmoji)</Description>
+    </AutoSplitter>
+    <AutoSplitter>
+        <Games>
+            <Game>Poppy Playtime</Game>
+        </Games>
+        <URLs>
+            <URL>https://raw.githubusercontent.com/TitomakaniJr/AutoSplits/main/Poppy%20Playtime/PoppyPlaytime.asl</URL>
+        </URLs>
+        <Type>Script</Type>
+        <Description>Poppy Playtime Chapter 1 Autosplitter and Load Remover. (By Poots N Doots)</Description>
     </AutoSplitter>
 </AutoSplitters>
